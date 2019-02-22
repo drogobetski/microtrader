@@ -1,3 +1,5 @@
+// A comment
+
 package com.pluralsight.dockerproductionaws.traderdashboard;
 
 import com.typesafe.config.Config;
